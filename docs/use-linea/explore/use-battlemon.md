@@ -6,8 +6,8 @@ sidebar_position: 1
 
 # Battlemon
 
-A GameFi ecosystem built around interactive 3D NFTs with utilities and on-chain mechanics with outcome probabilities. Mix, craft, play, stake - and get rewarded.
-----
+A GameFi ecosystem built around interactive 3D NFTs with utilities and on-chain mechanics with outcome probabilities.
+Mix, craft, play, stake - and get rewarded.
 
 Before you begin, ensure your wallet is:
 
@@ -22,6 +22,7 @@ Go to https://battlemon.com/ and connect your wallet to the website.
 ![connect](https://github.com/d-lol-b/doc.zk-evm/assets/78548938/970817b2-6088-45e9-bd5b-6eef9999ebf3)
 
 Sign metamask message
+
 ![signMessage](https://github.com/d-lol-b/doc.zk-evm/assets/78548938/69932c19-5a20-4340-bee4-17cb7709f4f3)
 
 Go to https://battlemon.com/city/mint
@@ -32,7 +33,8 @@ Go to https://battlemon.com/city/mint
  2. Copy the string containing "/activate code: *yourcode*"
  3. Go to the [Discord special channel](https://discordapp.com/channels/893433519110488064/1116478869118144532)
 
-Activate your code  
+Activate your code
+
 ![activate](https://github.com/d-lol-b/doc.zk-evm/assets/78548938/4a768a55-07e7-4088-ae10-29ebe2c90d63)
     
  1. Paste the  string from step 2 "/activate code: *yourcode*".
