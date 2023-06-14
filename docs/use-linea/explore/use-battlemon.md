@@ -18,7 +18,7 @@ Before you begin, ensure your wallet is:
 
 Go to https://battlemon.com/ and connect your wallet to the website.
 
-![](https://github.com/d-lol-b/doc.zk-evm/assets/78548938/367d616d-9937-4350-8d5d-76292aa35490)
+![](https://github-production-user-asset-6210df.s3.amazonaws.com/78548938/245328089-367d616d-9937-4350-8d5d-76292aa35490.mp4)
 
 ![signMessage](https://github.com/d-lol-b/doc.zk-evm/assets/78548938/69932c19-5a20-4340-bee4-17cb7709f4f3)
 
