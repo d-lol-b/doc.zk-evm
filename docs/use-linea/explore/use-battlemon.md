@@ -18,7 +18,7 @@ Before you begin, ensure your wallet is:
 
 Go to https://battlemon.com/ and connect your wallet to the website.
 
-https://github.com/d-lol-b/doc.zk-evm/assets/78548938/367d616d-9937-4350-8d5d-76292aa35490
+![](https://github.com/d-lol-b/doc.zk-evm/assets/78548938/367d616d-9937-4350-8d5d-76292aa35490)
 
 ![signMessage](https://github.com/d-lol-b/doc.zk-evm/assets/78548938/69932c19-5a20-4340-bee4-17cb7709f4f3)
 
@@ -47,7 +47,7 @@ Go to https://battlemon.com/city/mint and mint your NFT: "Key-pass"
 ![minKeyPass](https://github.com/d-lol-b/doc.zk-evm/assets/78548938/75807067-1f64-4068-949e-b48c1711be9c)
 
 
-https://github.com/d-lol-b/doc.zk-evm/assets/78548938/add34943-da71-41a9-9bad-22c1e947a898
+![](https://github.com/d-lol-b/doc.zk-evm/assets/78548938/add34943-da71-41a9-9bad-22c1e947a898)
 
 
 ## Mint NFT: "Pickaxe"
@@ -93,7 +93,6 @@ Craft NFT: "Gem second level (Blue)"
 Craft NFT: "Gem third level (Yellow)"
 
 ![gemLvl3](https://github.com/d-lol-b/doc.zk-evm/assets/78548938/da004793-2663-4e57-914d-80702e4ea4fa)
-
 
 ![craft](https://github.com/d-lol-b/doc.zk-evm/assets/78548938/0c9a0f87-dd96-49c6-8a3f-20c9929eb4d0)
 
